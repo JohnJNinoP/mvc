@@ -1,0 +1,5 @@
+venv/
+env/
+bin/
+obj/
+.vs/
